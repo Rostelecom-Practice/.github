@@ -26,10 +26,36 @@
 Занимается аналитикой.
 
 ## Технологии
-- Backend: [Java, Spring Boot]
+- 🔙**Backend:**
+  - Java
+  - Spring Boot
+  - Spring Data JPA
+  - Hibernate
+  - Spring Security
+  - Spring Cloud Gateway
+  - Apache Kafka
 
-- Frontend: [React (JavaScript), Vite, Telegram-бот (Python)]
+- 🌐**Frontend:**
+  - React (JavaScript)
+  - Vite
+  - Telegram-бот (Python)
+  - Firebase
 
-- Тестирование: [PyTest, Locust]
+- ✅**Тестирование:**
+  - PyTest
+  - Locust,
+  - JUnit
+  - Mockito
 
-- Аналитика: [Swagger]
+- 🛢 **Базы данных**
+  - PostgreSQL
+    
+- ⚙️ **DevOps / Инфраструктура**
+  - Docker, Docker Compose
+  - GitHub Actions (CI/CD)
+
+- 📊**Мониторинг, Документация и Аналитика:**
+  - Swagger
+  - Grafana
+  - Prometheus
+  - Draw.io
